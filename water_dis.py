@@ -1,4 +1,4 @@
-#this program is to find water displacement due to temperature
+#this program is to find water displacement due to temperature rise and decrease
 from math import *
 h1=float(input("enter height of water"))
 D1=float(input("enter diameter of upper water sur"))
