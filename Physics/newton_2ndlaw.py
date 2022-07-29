@@ -3,7 +3,7 @@ class new_2ndlaw:
         return mass*acceleration
 
     def mass(force,acceleration):
-        return acceleration/force
+        return force/acceleration
 
     def acceleration(mass,force):
         return force/mass
